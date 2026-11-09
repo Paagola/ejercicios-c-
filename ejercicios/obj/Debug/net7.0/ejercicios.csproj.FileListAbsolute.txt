@@ -1,0 +1,15 @@
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/bin/Debug/net7.0/ejercicios
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/bin/Debug/net7.0/ejercicios.deps.json
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/bin/Debug/net7.0/ejercicios.runtimeconfig.json
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/bin/Debug/net7.0/ejercicios.dll
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/bin/Debug/net7.0/ejercicios.pdb
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ejercicios.csproj.AssemblyReference.cache
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ejercicios.AssemblyInfoInputs.cache
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ejercicios.AssemblyInfo.cs
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ejercicios.csproj.CoreCompileInputs.cache
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ejercicios.dll
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/refint/ejercicios.dll
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ejercicios.pdb
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ejercicios.genruntimeconfig.cache
+/Users/padre/Documents/victor/ejercicios-c-/ejercicios/obj/Debug/net7.0/ref/ejercicios.dll
